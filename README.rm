@@ -2,3 +2,14 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning minecraft with python
 - 📫 How to reach me write an issue under this repo: https://github.com/ff6f8d68/Unknown/issues
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
